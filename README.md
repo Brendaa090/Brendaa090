@@ -1,6 +1,6 @@
 <!-- Perfil de Brendaa090 | tema pastel/kawaii -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="Brenda: código com criatividade e carinho" width="100%" />
+  <img src="./assets/fox-cat-banner.gif" alt="Banner animado de Brenda com uma raposa e um gatinho em tons pastéis" width="100%" />
 
   <br />
 
